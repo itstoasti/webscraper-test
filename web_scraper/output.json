@@ -1,0 +1,3 @@
+The "output.json" file is a JSON file where the scraped data will be stored. It doesn't contain any Python code, but it will be created and filled by the Scrapy pipeline. Initially, it will be an empty JSON file.
+
+{}
